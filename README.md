@@ -7,7 +7,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 
 #### Election-Audit Results:
-Total votes: 369,711  
+Total Votes: 369,711  
 Votes by County:
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
@@ -18,9 +18,9 @@ Votes by County:
 * Diana DeGette recieved 272,892 votes, 73.8% of total votes.
 * Raymon Anthony Doane recieved 11,606 votes, 3.1% of total votes.
 
-#### Declared winner of Election:
+#### Declared Winner of Election:
 * Winner: Diane DeGette
-* winning vote count: 272,892 votes
+* Winning Vote Count: 272,892 votes
 * Winning Percentage: 73% of total votes.
 
 
