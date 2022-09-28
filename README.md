@@ -9,20 +9,19 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 #### Election-Audit Results:
 Total votes: 369,711  
 Votes by County:
-* Jefferson had 38,855 votes, 10.5 % of the total votes.
-* Denver had 306,055 votes, 82.8 % of the total votes.
-* Arapahoe had 24,801 votes, 6.7 % of the total votes.
-* Denver is the county with the highest number of votes.
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
 
 #### Votes by Candidate:
-Charles Casper Stockham recieved 85,213 votes, 23.0% of total votes.
-Diana DeGette recieved 272,892 votes, 73.8% of total votes.
-Raymon Anthony Doane recieved 11,606 votes, 3.1% of total votes.
+* Charles Casper Stockham recieved 85,213 votes, 23.0% of total votes.
+* Diana DeGette recieved 272,892 votes, 73.8% of total votes.
+* Raymon Anthony Doane recieved 11,606 votes, 3.1% of total votes.
 
 #### Declared winner of Election:
-Winner: Diane DeGette
-winning vote count: 272,892 votes
-Winning Percentage: 73% of total votes.
+* Winner: Diane DeGette
+* winning vote count: 272,892 votes
+* Winning Percentage: 73% of total votes.
 
 
 #### Election-Audit Summary:
