@@ -9,10 +9,10 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 #### Election-Audit Results:
 Total votes: 369,711  
 Votes by County:
-*Jefferson had 38,855 votes, 10.5 % of the total votes.
-*Denver had 306,055 votes, 82.8 % of the total votes.
-*Arapahoe had 24,801 votes, 6.7 % of the total votes.
-*Denver is the county with the highest number of votes.
+* Jefferson had 38,855 votes, 10.5 % of the total votes.
+* Denver had 306,055 votes, 82.8 % of the total votes.
+* Arapahoe had 24,801 votes, 6.7 % of the total votes.
+* Denver is the county with the highest number of votes.
 
 #### Votes by Candidate:
 Charles Casper Stockham recieved 85,213 votes, 23.0% of total votes.
